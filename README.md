@@ -1,4 +1,4 @@
-#Aplicație web pentru gestionarea rezolvării bug-urilor
+# Aplicație web pentru gestionarea rezolvării bug-urilor
 
 Obiectiv
 Realizarea unei aplicații web care să permită gestionarea bug-urilor într-o aplicație.
